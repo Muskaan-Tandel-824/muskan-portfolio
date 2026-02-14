@@ -3,7 +3,7 @@
 
 🛠 Tech Stack:
 - HTML, CSS, JavaScript.
-- AWS EC2, Nginx
+- AWS EC2, Nginx(for deployment)
 - GitHub Pages
 
 📂 Sections:
